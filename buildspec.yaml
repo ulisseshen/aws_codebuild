@@ -20,4 +20,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: dist/my-dream-app
+  base-directory: dist/aws_codebuild
